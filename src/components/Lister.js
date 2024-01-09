@@ -95,7 +95,7 @@ if (op!=null)
   }
   return (
     <div >
-      <h1 className="text-4xl mt-24  flex justify-center">100 Dsa Questions</h1>
+      <h1 className="text-4xl mt-24  flex justify-center">100 tracker Questions</h1>
       <h3 className="text-4xl mt-3 text-purple-800 align-items-center text-center  flex justify-center">
         Crack Product based companies today
       </h3>
