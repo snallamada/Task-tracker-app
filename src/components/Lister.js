@@ -143,11 +143,11 @@ if (op!=null)
       </div>
       <div className="mb-10">
         <div className="flex justify-center ">
-          <p className="text-slate-600 font-nunito "> Github : &nbsp;</p>
+          <p className="text-slate-600 font-nunito "> Linkedin : &nbsp;</p>
           <Link
             target="_blank"
             className=" text-blue-700 font-nunito "
-            to="#"
+            to="https://www.linkedin.com/in/shravan-kumar-reddy-nallamada/"
           >
             {" "}
             Shravan NALLAMADA &nbsp;
@@ -168,9 +168,9 @@ if (op!=null)
           <Link
             target="_blank"
             className="text-sky-600 "
-            to="https://github.com/Dct-tcd"
+            to="https://github.com/snallamada"
           >
-            &nbsp; Github \ Dct-tcd{" "}
+            &nbsp; Github \ shravan{" "}
           </Link>
         </div>
       </div>
