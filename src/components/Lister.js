@@ -143,14 +143,14 @@ if (op!=null)
       </div>
       <div className="mb-10">
         <div className="flex justify-center ">
-          <p className="text-slate-600 font-nunito "> Linkedin : &nbsp;</p>
+          <p className="text-slate-600 font-nunito "> Github : &nbsp;</p>
           <Link
             target="_blank"
             className=" text-blue-700 font-nunito "
-            to="https://www.linkedin.com/in/Dev-chaitanya-tiwari-a30478200/"
+            to="#"
           >
             {" "}
-            Dev Chaitanya tiwari &nbsp;
+            Shravan NALLAMADA &nbsp;
           </Link>
 
           <img
